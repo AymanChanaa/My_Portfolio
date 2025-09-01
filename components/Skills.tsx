@@ -18,7 +18,7 @@ const Skills = () => {
       name: "JavaScript",
       level: 95,
       color: "from-yellow-300 to-orange-400",
-      icon: "/skills/javascript.png",
+      icon: "/skills/java_script.png",
     },
     {
       name: "React",
