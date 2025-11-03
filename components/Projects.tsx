@@ -23,6 +23,26 @@ const Projects = () => {
         "https://zoom-clone-one-opal.vercel.app/sign-in?redirect_url=https%3A%2F%2Fzoom-clone-one-opal.vercel.app%2F",
       category: "Web Application",
     },
+    {
+      title: "Google Docs Clone",
+      description:
+        "Un clone moderne de Google Docs développé avec Next.js, Clerk et Liveblocks, offrant édition collaborative en temps réel et authentification sécurisée.",
+      image: "/projects/GoogleDocsClone.png",
+      technologies: [
+        "NextJs",
+        "Tailwind CSS v4",
+        "Clerk",
+        "TypeScript",
+        "Liveblocks",
+        "Git",
+        "GitHub",
+        "Vercel",
+      ],
+      githubUrl: "https://github.com/AymanChanaa/google-docs-clone",
+      liveUrl:
+        "https://google-docs-clone-1lya-hp6ooeotc-achanaa999-2031s-projects.vercel.app/sign-in",
+      category: "Web Application",
+    },
   ];
 
   const handleGitHub = (url: string) => {
