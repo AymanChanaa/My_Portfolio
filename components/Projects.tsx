@@ -26,7 +26,7 @@ const Projects = () => {
     {
       title: "Google Docs Clone",
       description:
-        "Un clone moderne de Google Docs développé avec Next.js, Clerk et Liveblocks, offrant édition collaborative en temps réel et authentification sécurisée.",
+        "A modern clone of Google Docs developed with Next.js, Clerk and Liveblocks, offering real-time collaborative editing and secure authentication.",
       image: "/projects/GoogleDocsClone.png",
       technologies: [
         "NextJs",
